@@ -5,5 +5,5 @@
 
 - Confounded Impact of Push Notifications: Estimated causal effects using regression, propensity score matching, inverse probability weighting, double-robust methods, and IV estimation (2SLS); evaluated robustness against unobserved confounding.
 
-- Double Machine Learning for Mobile App: Implemented DML (Partial Linear & AIPW), estimated ATEs and HTEs with Causal Forests, R-/DR-Learners; evaluated model performance and learned optimal policy for notification targeting.
+- Double Machine Learning for Mobile App: Implemented DML (Partial Linear & AIPW), estimated ATEs and HTEs with Causal Forests, R-/DR-Learners; evaluated model performance and learned optimal policy for notification targeting. 
 
